@@ -1,1 +1,1 @@
-# optimizing-sales-inventory-and-margin-for-eesbee-garments
+# Data Analytics Engine for optimizing-sales-inventory-and-margin-for-retail-business
